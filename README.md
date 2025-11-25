@@ -22,7 +22,7 @@ A complete RESTful backend API for managing hospital operations such as patients
 
 🚀 Project Overview
 
-The Hospital-Management-System is a PHP + MySQL-based backend service designed to streamline hospital operations like managing patients, doctors, and appointments.
+The Hospital-Management-System is a Spring Boot + MySQL-based backend service designed to streamline hospital operations like managing patients, doctors, and appointments.
 This API supports full CRUD operations and follows clean RESTful design principles.
 
 ⭐ Features
