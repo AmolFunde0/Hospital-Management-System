@@ -24,3 +24,5 @@ npm run dev
   - Doctors: `/api/v1/doctor`
   - Appointments: `/api/v1/appointment`
   - Bills: `/api/v1/bill`
+ <img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/db5e30e1-a70b-426f-adab-538560a368b8" />
+   
