@@ -191,3 +191,7 @@ allergies
 illnesses  
 medications
 
+File Structure :-
+        <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f54f6697-2c62-43b1-9b82-168a35116bc5" />
+
+
